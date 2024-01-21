@@ -29,18 +29,17 @@
     "vite-plugin",
     "svg",
     "sprite",
-    "svgo",
-    "vben"
+    "svgo"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/anncwb/vite-plugin-svg-icons",
+    "url": "https://github.com/VytenisSidabras/vite-plugin-svg-icons",
     "directory": "packages/core"
   },
   "bugs": {
-    "url": "https://github.com/anncwb/vite-plugin-svg-i cons/issues"
+    "url": "https://github.com/VytenisSidabras/vite-plugin-svg-icons/issues"
   },
-  "homepage": "https://github.com/anncwb/vite-plugin-svg-icons/tree/master/#readme",
+  "homepage": "https://github.com/VytenisSidabras/vite-plugin-svg-icons/tree/master/#readme",
   "dependencies": {
     "@types/svgo": "^2.6.1",
     "cors": "^2.8.5",
